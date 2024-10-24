@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@firebasegen/default-connector": "file:dataconnect-generated/js/default-connector",
+    "firebase": "^11.0.0"
+  },
+  "name": "plant-selling-ecommerce-webiste-main",
+  "version": "1.0.0",
+  "description": "Create a complete responsive online ecommerce website design for beginers using html css and vanilla javascript step by step.",
+  "main": "checkout.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
